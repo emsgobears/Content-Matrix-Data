@@ -1,19 +1,10 @@
-Type,Awareness,Emotional,Color
-Blog,9.5,7,66.5
-Press_release,7,5.5,38.5
-Ebooks,6,5,30
-Company_news,4,6,24
-Case_study,2,5,10
-Influencer,3.5,8,28
-Ratings,3,5,15
-Customer_review,1.8,8,14.4
-Webinars,5,4,20
-Product_videos,4,3,12
-Whitepaper,4,2,8
-Brand_ads,8,8,64
-Trend_report,6,2,12
-Keynote,6,9,54
-Demo,2,3,6
-FAQ,1.5,2,3
-Product_pages,1.5,5,7.5
-Pricing,1,1,1
+Type Awareness Emotional Color
+Blog 9.5 7 66.5
+Press_release 7 5.5 38.5
+Ebooks 6 5 30
+Company_news 4 6 24
+Case_study 2 5 10
+Influencer 3.5 8 28
+Ratings 3 5 15
+Customer_review 1.8 8 14.4
+
