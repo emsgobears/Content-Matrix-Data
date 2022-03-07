@@ -1,10 +1,9 @@
 Type	Awareness	Emotion	Color	Category
 Blog	9	3	27	Educate
-Press_release	6	4	24	Educate
+Press_release	6	6	36	Educate
 Ebook	4.5	4	18	Convert
-Company_news	7	4	28	Persuade
 Case_study	3	4	12	Convert
-Influencer	8	8	64	Entertain
+Influencer	9	9	81	Entertain
 Ratings	3	7	21	Persuade
 Customer_review	1	7.5	7.5	Persuade
 Webinar	7	3	21	Educate
@@ -15,7 +14,7 @@ Industry_report	7	2.5	17.5	Educate
 Event	6.5	9	58.5	Entertain
 Demo	2	3	6	Convert
 FAQ	1	2	2	Convert
-Product_pages	3.5	2.5	8.75	Convert
+Web_pages	3.5	2.5	8.75	Convert
 Pricing	2	1	2	Convert
 Gamification	8	9	72	Entertain
 Competition	6	7.5	30	Entertain
