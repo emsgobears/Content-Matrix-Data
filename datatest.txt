@@ -11,10 +11,10 @@ Product_video	4	6	24	Persuade
 Whitepaper	4	2.5	10	Convert
 Brand_ads	8	8	64	Entertain
 Industry_report	7	2.5	17.5	Educate
-Event	6.5	7	45.5	Entertain
+Event	6.5	7	45.5 Entertain
 Demo	2	3	6	Convert
 FAQ	1	2	2	Convert
-Web_pages	3.5	2.5	8.75	Convert
+Web_pages	3.5	2.5	8.75 Convert
 Pricing	2	1	2	Convert
-Gamification	8	9.5 76	Entertain
-Competition	6	7.5	30	Entertain
+Gamification	8	9.5 76 Entertain
+Competition	6	7.5	30 Entertain
